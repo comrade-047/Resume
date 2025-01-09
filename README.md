@@ -4,7 +4,7 @@ This repository contains my professional resume.
 
 ## View Resume
 
-You can view or download my resume by clicking [here](./Resume.pdf).  
+You can view or download my resume by clicking [here](./resume_1.pdf).  
 
 ## About Me
 
